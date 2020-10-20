@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Test_four\Test_four\bin\Debug\netcoreapp3.1\Test_four.exe
+C:\Users\Роман\source\repos\Test_four\Test_four\bin\Debug\netcoreapp3.1\Test_four.deps.json
+C:\Users\Роман\source\repos\Test_four\Test_four\bin\Debug\netcoreapp3.1\Test_four.runtimeconfig.json
+C:\Users\Роман\source\repos\Test_four\Test_four\bin\Debug\netcoreapp3.1\Test_four.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Test_four\Test_four\bin\Debug\netcoreapp3.1\Test_four.dll
+C:\Users\Роман\source\repos\Test_four\Test_four\bin\Debug\netcoreapp3.1\Test_four.pdb
+C:\Users\Роман\source\repos\Test_four\Test_four\obj\Debug\netcoreapp3.1\Test_four.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Test_four\Test_four\obj\Debug\netcoreapp3.1\Test_four.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Test_four\Test_four\obj\Debug\netcoreapp3.1\Test_four.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Test_four\Test_four\obj\Debug\netcoreapp3.1\Test_four.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Test_four\Test_four\obj\Debug\netcoreapp3.1\Test_four.dll
+C:\Users\Роман\source\repos\Test_four\Test_four\obj\Debug\netcoreapp3.1\Test_four.pdb
+C:\Users\Роман\source\repos\Test_four\Test_four\obj\Debug\netcoreapp3.1\Test_four.genruntimeconfig.cache
